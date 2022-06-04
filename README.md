@@ -3,7 +3,7 @@
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=quoc9x&show_icons=true&theme=tokyonight" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=quoc9x&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=quoc9x&theme=chartreuse-dark&hide_border=true" width = 400>
 </p>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=quoc9x&color=brightgreen alt=quoc9x/> </p><br>
