@@ -18,7 +18,7 @@ I'm a DevOps and Software Engineer working in Hanoi, Vietnam.
     <a href="https://helm.sh/" target="_blank"> <img src="https://helm.sh/img/helm.svg" alt="helm" width="40" height="40"/> </a>
     <a href="https://argoproj.github.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="argocd" width="40" height="40"/> </a>
     <a href="https://www.jenkins.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
-    <a href="https://docs.gitlab.com/ee/ci/" target="_blank"> <img src="https://camo.githubusercontent.com/07a52f72326754e7fe182adce6b572f1fc2bea794916e8c75e249d9b171fd4f6/68747470733a2f2f61626f75742e6769746c61622e636f6d2f696d616765732f63692f6769746c61622d63692d63642d6c6f676f5f32782e706e67" alt="gitlabcicd" width="40" height="40"/> </a>
+    <a href="https://docs.gitlab.com/ee/ci/" target="_blank"> <img src="https://raw.githubusercontent.com/quoc9x/icons/main/icons/gitlab-ci-cd-logo.png" alt="gitlabcicd" width="40" height="40"/> </a>
     <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
     <a href="https://www.ansible.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/> </a>
     <a href="https://www.terraform.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> </a>
