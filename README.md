@@ -8,7 +8,7 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=quoc9x&color=brightgreen alt=quoc9x/> </p><br>
 
-I'm a DevOps and Software Engineer working in Hanoi, Vietnam. 
+I'm currently working as a DevOps and Software Engineer in Hanoi, Vietnam. 
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
